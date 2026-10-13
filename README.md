@@ -3,6 +3,8 @@
 A native macOS host for the 1994 German DOS adventure *Bi-Fi 2 – Action in Hollywood*, plus the
 reverse-engineering tools used to understand its file formats.
 
+<img src="docs/screenshot.png" alt="Bi-Fi 2 running in the macOS host: the studio gate with verb panel and inventory" width="640">
+
 The original game code runs unchanged under [Unicorn](https://www.unicorn-engine.org/) (x86 → ARM64);
 DOS, BIOS, VGA, timer, keyboard, mouse, Sound Blaster 2.0 and AdLib are implemented natively. No DOSBox.
 
