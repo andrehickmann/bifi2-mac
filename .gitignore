@@ -1,0 +1,15 @@
+# Whitelist: this folder also holds the original game files and extracted
+# assets, which must never be committed. Only the paths below are tracked.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/port/
+!/tools/
+
+/port/build/
+/port/assets/BiFi2.icns
+/port/assets/icon_1024.png
+/tools/.venv/
+__pycache__/
+.DS_Store
